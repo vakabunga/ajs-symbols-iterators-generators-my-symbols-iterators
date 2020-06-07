@@ -1,5 +1,3 @@
-import Character from './character';
-
 // export default class Team {
 //   [Symbol.iterator]() {
 //     const persons = Object.values(this);
